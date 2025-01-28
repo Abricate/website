@@ -1,4 +1,5 @@
 # website
-Home page and linked pages
-
-Really unsure how to start a home page hosted by Github, today is the drive around and figure it out phase. Hopefully I will remember to update this readme.md when I have some greater understanding of what is hosted here and what is imported from elsewhere. 
+Abricate - verb - meaning "take the eFfort out of fabrication." 
+Fabrication requires a decent amount of knowledge and enough materials to reach an end result. 
+This website is the starting point from which people and computers can rationalize a desired result
+format the list of needs and communicate to a centralized service hub the instructions to that end.
